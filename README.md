@@ -1,1 +1,1 @@
-# The folder containing practice with high quality code
+# The folder containing some practical projects
