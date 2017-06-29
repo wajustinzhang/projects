@@ -1,0 +1,8 @@
+{
+  "data_folder": "./tmp/data",
+  "log_folder": "./tmp/log",
+  "learning_rate":"0.02",
+  "steps":"1000",
+  "mini_batch_size":"50",
+  "layers":"(28*28, 128, 32, 10)"
+}
